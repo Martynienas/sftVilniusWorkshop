@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Martynienas/sftVilniusWorkshop#readme",
   "dependencies": {
-    "@playwright/test": "^1.13.1"
+    "@playwright/test": "^1.13.1",
+    "experimental-allure-playwright": "^0.0.3"
   }
 }
